@@ -34,7 +34,6 @@
             return $result;
      }
      
-
 $tokens = array("사용자토큰값");
 $myMessage = "testssssssssssssssssssssssssssssss";
 
